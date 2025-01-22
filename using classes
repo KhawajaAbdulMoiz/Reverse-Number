@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+class Employee{
+public:
+int a,b;
+Employee(){cout<<"Object Created};
+};
+int main(){
+Employee ob;
+};
